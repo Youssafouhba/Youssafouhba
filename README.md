@@ -45,7 +45,7 @@ const skills = {
 - 📊 Performance Optimization
 
 ## 🏆 Featured Projects
-#### 🏦 [Credify](https://github.com/ia-project-org/blob/main/README.md)
+#### 🏦 [Credify](https://github.com/ia-project-org)
 - Developed an innovative AI-powered banking credit evaluation and automation platform
 - Implemented machine learning models for automated credit eligibility assessment
 - Built comprehensive risk management system with in-depth analysis capabilities
