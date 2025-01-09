@@ -45,6 +45,22 @@ const skills = {
 - 📊 Performance Optimization
 
 ## 🏆 Featured Projects
+#### 🏦 [Credify](https://github.com/ia-project-org/blob/main/README.md)
+- Developed an innovative AI-powered banking credit evaluation and automation platform
+- Implemented machine learning models for automated credit eligibility assessment
+- Built comprehensive risk management system with in-depth analysis capabilities
+- Created personalized recommendation engine for client profiles
+- Designed intuitive interface for banking agents
+
+**Technical Implementation:**
+- **Backend**: Spring Boot microservices, Python/Django (ML), Spring Batch, Keycloak
+- **Frontend**: React, Material-UI
+- **Architecture**: 
+  - Microservices with Eureka service discovery
+  - API Gateway for centralized request handling
+  - Config Server with GitHub integration
+  - Containerized with Docker and Kubernetes orchestration
+- **CI/CD**: Jenkins pipelines, SonarQube code analysis
 
 #### 🌍 [CityThrillsMorocco](https://github.com/Youssafouhba/CityThrillsMorocco/blob/main/README.md)
 - Designed an innovative web platform for discovering and booking authentic tourist activities in Morocco  
