@@ -62,7 +62,7 @@ const skills = {
   - Containerized with Docker and Kubernetes orchestration
 - **CI/CD**: Jenkins pipelines, SonarQube code analysis
 
-#### 🌍 [CityThrillsMorocco](https://github.com/Wholesaled-LTD)
+#### 🌍 [CityThrillsMorocco](https://github.com/Youssafouhba/CityThrillsMorocco/blob/main/README.md)
 - Designed an innovative web platform for discovering and booking authentic tourist activities in Morocco  
 - Centralized information for easy access to activities and services  
 - Integrated an interactive map and real-time booking management  
